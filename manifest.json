@@ -24,7 +24,9 @@
             "https://zoom.us/j/*",
             "https://*.zoom.us/j/*",
             "https://zoom.us/s/*",
-            "https://*.zoom.us/s/*"
+            "https://*.zoom.us/s/*",
+            "https://teams.microsoft.com/dl/launcher/*",
+            "https://bluejeans.com/*"
         ],
         "js": [
           "content.js"
